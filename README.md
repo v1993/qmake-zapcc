@@ -1,3 +1,5 @@
+*All files are based on QT project ones for clang.*
+
 # qmake-zapcc
 Files to support [zapcc](https://github.com/yrnkrn/zapcc) with qmake on linux and OS X (not tested).
 
