@@ -8,7 +8,7 @@ Files to support [zapcc](https://github.com/yrnkrn/zapcc) with qmake on linux an
 * Linux:
 	* Qt 5.11.2 from self-installer
 	* Ubuntu 18.04
-	* zapcc commit yrnkrn/zapcc@9bd04e7618bafaf6d938b0aed5837c1c5b312645
+	* zapcc commit https://github.com/yrnkrn/zapcc/commit/9bd04e7618bafaf6d938b0aed5837c1c5b312645
 * OS X:
 	* Not tested yet (report if you have tested it)
 
